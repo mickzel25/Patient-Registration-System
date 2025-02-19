@@ -9,7 +9,7 @@
 6 In The Solution Explorer fiind Web.config 
  and find this line and edit the connection String
  <connectionStrings>
-		<add name="condb" connectionString="Data Source=localhost;Initial Catalog=PregDB;User ID=doh;Password=SoccSKsargen12" providerName="System.Data.SqlClient" />
+		<add name="condb" connectionString="Data Source=localhost;Initial Catalog=PregDB;User ID=ID_On_Your_Sqlserver;Password=Password_On_Your_sqlserver" providerName="System.Data.SqlClient" />
 		</connectionStrings>
 5 In The Solution Explorer Find Login.aspx right click-> View in browser
 
